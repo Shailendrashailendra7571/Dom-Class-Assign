@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#root{
+    margin-top: 100px;
+    width: 500px;
+    height:250px;
+    color: red;
+    background-color: yellow;
+    padding: 100px;
+    box-sizing: border-box;
+}
